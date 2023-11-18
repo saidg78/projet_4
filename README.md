@@ -1,0 +1,3 @@
+# Projet de Détection de Composant Électronique
+
+Ce projet de détection de composants électroniques utilise un réseau de neurones convolutionnels (CNN) avec Edge Impulse. Après avoir configuré l'impulsion, ajusté les paramètres d'image et ajouté des blocs de traitement et d'apprentissage, le modèle a été entraîné avec succès. Avec un score de précision de 90% et une perte (loss) de 0.24, le modèle atteint des performances solides. En utilisant des techniques d'analyse spectrale, de réseau neuronal, et de détection d'anomalies K-means, ce projet offre une solution efficace pour la détection de composants électroniques.
